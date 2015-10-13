@@ -1,0 +1,15 @@
+array(1) {
+  ["file"]=>
+  array(5) {
+    ["name"]=>
+    string(11) "example.jpg"
+    ["type"]=>
+    string(0) ""
+    ["tmp_name"]=>
+    string(14) "/tmp/phpqmjBlh"
+    ["error"]=>
+    int(0)
+    ["size"]=>
+    int(1537067)
+  }
+}
